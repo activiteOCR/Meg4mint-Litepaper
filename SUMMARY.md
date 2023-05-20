@@ -5,5 +5,4 @@
 * [🚀 Roadmap](roadmap.md)
 * [💡 Team & Advisors](team-and-advisors.md)
 * [🪂 How to participate](how-to-participate.md)
-* [🔗 Official Links](official-links.md)
 * [📔 Contracts](contracts.md)

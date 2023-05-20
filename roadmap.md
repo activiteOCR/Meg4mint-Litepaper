@@ -2,15 +2,15 @@
 
 ### Phase 1: Pre-launch (Month 1)
 
-* [ ] Project Inception: Conceptualization of Meg4mint and assembling the core team.
-* [ ] Market Research: Conducting in-depth market analysis and identifying key target audiences.
-* [ ] Token Development: Initiating the development of the ERC20 token, including smart contract creation and auditing.
+* [x] Project Inception: Conceptualization of Meg4mint and assembling the core team.
+* [x] Market Research: Conducting in-depth market analysis and identifying key target audiences.
+* [x] Token Development: Initiating the development of the ERC20 token, including smart contract creation and auditing.
 
 ### Phase 2: Community Building (Month 2-3)
 
-* [ ] Establish Online Presence: Launching official website, social media channels, and community forums to engage with early supporters.
-* [ ] Litepaper and Whitepaper Preparation: Crafting comprehensive litepaper and whitepaper documents, outlining the project's vision, tokenomics, and roadmap.
-* [ ] Building a Community: Actively engaging with the community, hosting AMA (Ask Me Anything) sessions, and addressing inquiries and feedback.
+* [x] Establish Online Presence: Launching official website, social media channels, and community forums to engage with early supporters.
+* [x] Litepaper and Whitepaper Preparation: Crafting comprehensive litepaper and whitepaper documents, outlining the project's vision, tokenomics, and roadmap.
+* [x] Building a Community: Actively engaging with the community, hosting AMA (Ask Me Anything) sessions, and addressing inquiries and feedback.
 
 ### Phase 3: Presale Preparation (Month 4-5)
 
