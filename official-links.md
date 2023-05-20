@@ -1,15 +1,29 @@
 # 🔗 Official Links
 
-Twitter https://twitter.com/meg4mint3023
+### Twitter
 
-Official Discord Invite https://discord.gg/fFNAHsvcbZ
+{% embed url="https://twitter.com/meg4mint3023" %}
 
-Website https://www.meg4mint.xyz/
+### Official Discord Invite
 
-Mint page https://www.meg4mint.xyz/mint
+{% embed url="https://discord.gg/fFNAHsvcbZ" %}
 
-Staking Dapp https://www.meg4mint.xyz/stake
+### Website&#x20;
 
-Internal Marketplace https://www.meg4mint-marketplace.xyz/
+{% embed url="https://www.meg4mint.xyz/" %}
 
-OpenSea https://opensea.io/collection/meg4mint
+### Mint page
+
+{% embed url="https://www.meg4mint.xyz/mint" %}
+
+### Staking Dapp
+
+{% embed url="https://www.meg4mint.xyz/stake" %}
+
+### Internal Marketplace&#x20;
+
+{% embed url="https://www.meg4mint-marketplace.xyz/" %}
+
+### OpenSea&#x20;
+
+{% embed url="https://opensea.io/collection/meg4mint" %}

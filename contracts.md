@@ -32,10 +32,10 @@ description: Smart Contracts
 
 {% tabs %}
 {% tab title="Address" %}
-
+0xcB324a4C479D7b33d3377932227c675f5eF3ec9B
 {% endtab %}
 
 {% tab title="Etherscan" %}
-
+{% embed url="https://etherscan.io/address/0xcb324a4c479d7b33d3377932227c675f5ef3ec9b" %}
 {% endtab %}
 {% endtabs %}
