@@ -22,7 +22,7 @@
 
 * [ ] Presale Announcement: Officially announcing the presale start date, details, and participation instructions.
 * [ ] Presale Marketing Campaign: Launching an intensive marketing campaign to drive participation and generate interest in the presale, leveraging social media, influencers, and targeted advertising.
-* [ ] Token Sale: Conducting the presale event, allowing early investors to purchase \[Token Name] at the specified presale price, with allocation limits and any applicable bonuses.
+* [ ] Token Sale: Conducting the presale event, allowing early investors to purchase $MEG at the specified presale price, with allocation limits and any applicable bonuses.
 
 ### Phase 5: Post-Presale (Month 7-8)
 
