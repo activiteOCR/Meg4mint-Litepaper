@@ -22,6 +22,6 @@ Our ERC20 token, $MEG, lies at the heart of our ecosystem, serving as a medium o
 
 
 3. **Token Utility:**
-   * Payment Method: $MEG will serve as a native currency within our platform, enabling users to pay for goods, services, and access platform features such as internal marketplace, where holders will be able to purchase digital and physical items as well as phygital items. Moreover, only $MEG holders will be able to mint the gen2 Meg4mint NFTs collection.
+   * Payment Method: $MEG will serve as a native currency within our platform, enabling users to pay for goods, services, and access platform features such as internal marketplace, where holders will be able to purchase digital and physical items. Moreover, only $MEG holders will be able to mint the gen2 Meg4mint NFTs collection.
    * Innovation & technology: An electronic innovation based on NFC tags relying on the blockchain will be proposed to all holders, a unique system acting as a cold wallet.
    * Rewards and Incentives: $MEG holders will be eligible for various rewards and incentives, encouraging active participation and engagement within the platform.
