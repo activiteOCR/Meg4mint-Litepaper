@@ -14,7 +14,7 @@
 * Browse through the $MEG presale projects listed on the PinkSale Launchpad platform (official link tbd).
 * Read the project descriptions, tokenomics, and any other relevant information provided by $MEG project.
 
-### Step 4: Whitelist Registration
+### Step 4: Whitelist Registration (if applicable)
 
 * If the project requires a whitelist registration, click on the project and find the "Whitelist" or "Presale Registration" button.
 * Follow the instructions provided to register for the project's whitelist, which may include submitting your personal details, email address, and Ethereum wallet address.
