@@ -10,7 +10,7 @@
 
 * [x] Establish Online Presence: Launching official website, social media channels, and community forums to engage with early supporters.
 * [x] Litepaper and Whitepaper Preparation: Crafting comprehensive litepaper and whitepaper documents, outlining the project's vision, tokenomics, and roadmap.
-* [x] Building a Community: Actively engaging with the community, hosting AMA (Ask Me Anything) sessions, and addressing inquiries and feedback.
+* [x] Building a Community: Actively engaging with the community and addressing inquiries and feedback.
 
 ### Phase 3: Presale Preparation (Month 4-5)
 

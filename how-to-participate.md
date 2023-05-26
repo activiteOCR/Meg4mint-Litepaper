@@ -11,17 +11,17 @@
 
 ### Step 3: Explore Presale Projects
 
-* Browse through the available presale projects listed on the PinkSale Launchpad platform.
-* Read the project descriptions, tokenomics, and any other relevant information provided for each project.
+* Browse through the $MEG presale projects listed on the PinkSale Launchpad platform (official link tbd).
+* Read the project descriptions, tokenomics, and any other relevant information provided by $MEG project.
 
 ### Step 4: Whitelist Registration
 
-* If the project requires a whitelist registration, click on the project of your choice and find the "Whitelist" or "Presale Registration" button.
+* If the project requires a whitelist registration, click on the project and find the "Whitelist" or "Presale Registration" button.
 * Follow the instructions provided to register for the project's whitelist, which may include submitting your personal details, email address, and Ethereum wallet address.
 
 ### Step 5: KYC Verification (if applicable)
 
-* Some projects may require Know Your Customer (KYC) verification for participation.
+* May require Know Your Customer (KYC) verification for participation (tbd).
 * If KYC is required, you will receive further instructions on how to complete the verification process, which typically involves submitting identification documents.
 
 ### Step 6: Presale Allocation and Payment
