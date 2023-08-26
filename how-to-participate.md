@@ -11,22 +11,22 @@
 
 ### Step 3: Explore Presale Projects
 
-* Browse through the $MEG presale projects listed on the PinkSale Launchpad platform (official link tbd).
+* Browse through the $MEG presale projects listed on the PinkSale Launchpad platform
+* &#x20;Fair launch link👉[https://www.pinksale.finance/launchpad/0xDE62dA989453Ca192d6A6763b6e5d5A339696A65?chain=ETH](https://www.pinksale.finance/launchpad/0xDE62dA989453Ca192d6A6763b6e5d5A339696A65?chain=ETH).
 * Read the project descriptions, tokenomics, and any other relevant information provided by $MEG project.
 
-### Step 4: Whitelist Registration (if applicable)
+### Step 4: Whitelist Registration (applicable)
 
-* If the project requires a whitelist registration, click on the project and find the "Whitelist" or "Presale Registration" button.
-* Follow the instructions provided to register for the project's whitelist, which may include submitting your personal details, email address, and Ethereum wallet address.
+* The project requires a whitelist registration, however if after 24hrs the fairlaunch don't reach the softcap the fairlaunch will become public.
+* To register for the project's whitelist, participate to the raffles available here [https://www.alphabot.app/](https://www.alphabot.app/) find a Meg4mint raffle and follow the requirement to enter (raffle example: [https://www.alphabot.app/meg4-mint-x-brc-20-6xvqch](https://www.alphabot.app/meg4-mint-x-brc-20-6xvqch) )
 
-### Step 5: KYC Verification (if applicable)
+### Step 5: KYC Verification (not applicable)
 
 * May require Know Your Customer (KYC) verification for participation (tbd).
 * If KYC is required, you will receive further instructions on how to complete the verification process, which typically involves submitting identification documents.
 
 ### Step 6: Presale Allocation and Payment
 
-* Once whitelisted and approved (if applicable), you will be notified of your allocated token amount and the presale start time.
 * When the presale begins, log in to the PinkSale Launchpad platform and navigate to the project's presale page.
 * Follow the instructions to make your payment in the specified cryptocurrency (usually ETH) within the designated timeframe.
 * Ensure that you send the exact amount of cryptocurrency and to the provided wallet address.
