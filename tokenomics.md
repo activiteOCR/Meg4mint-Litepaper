@@ -21,10 +21,15 @@ Our ERC20 token, $MEG, lies at the heart of our ecosystem, serving as a medium o
     * Community and Partnerships: **44,67%** (13.4M) of the **total token supply** will be reserved for community development, **airdrop** partnerships and ecosystem growth. These tokens will be used through an **NFT staking mecanism** (gen1) to foster collaborations, incentivize users, and fuel the expansion of our platform.
 
 
-3. **Deflationary Token Model (under study):**
-   * Token burning contributes to the deflationary nature of the token model by reducing the total supply. When tokens are burned, the reward distribution mechanism can be designed to increase the rewards given to stakers.
-   * To determine the specific statistics and parameters of our model, we would need to consider factors such as the rate at which tokens are burned, the proportion of burned tokens allocated as staking rewards, the duration of staking periods, and the relationship between token burning and reward increase. Analyzing these parameters, conducting simulations, and potentially performing economic modeling can help estimate the impact of the token burning and NFT staking mechanism on the token's deflationary nature, reward distribution, and overall token economics.
+3.  **Deflationary Token Model:**
+
+    * Token burning contributes to the deflationary nature of the token model by reducing the total supply. When tokens are burned, the reward distribution mechanism can be designed to increase the rewards given to stakers.
+    * To determine the specific statistics and parameters of our model, we would need to consider factors such as the rate at which tokens are burned, the proportion of burned tokens allocated as staking rewards, the duration of staking periods, and the relationship between token burning and reward increase. Analyzing these parameters, conducting simulations, and potentially performing economic modeling can help estimate the impact of the token burning and NFT staking mechanism on the token's deflationary nature, reward distribution, and overall token economics.
+    * $MEG is an Ethereum-based token that competes with others deflationary tokens, with a 30 million token supply and a 2% burn rate (2% of the tokens traded in each transaction of will be burned). The process of burning tokens will come to a halt after 5 years.
+    * $MEG NFT staking reward will double each semester during 5 years, the initial reward per unit time is equal to "0.001$MEG" (unit time = 60 min.)
+
+
 4. **Token Utility:**
-   * Payment Method: $MEG will serve as a native currency within our platform, enabling users to pay for goods, services, and access platform features such as internal marketplace, where holders will be able to purchase digital and physical items. Moreover, only $MEG holders will be able to mint the gen2 Meg4mint NFTs collection.
-   * Innovation & technology: An electronic innovation based on NFC tags relying on the blockchain will be proposed to all holders, a unique system acting as a cold wallet.
-   * Rewards and Incentives: $MEG holders will be eligible for various rewards and incentives, encouraging active participation and engagement within the platform.
+   * **Payment Method:** $MEG will serve as a native currency within our platform, enabling users to pay for goods, services, and access platform features such as **internal marketplace**, where holders will be able to purchase **digital and physical items**.&#x20;
+   * Moreover, only $MEG holders will be able to **mint the pass** to get the gen2 Meg4mint NFTs collection, this **exclusible collection** will be a set of **physical cards** (like pokemon) that are **tokenized on the blockchain**.
+   * Rewards and Incentives: $MEG holders will be eligible for various **rewards** and incentives, encouraging active participation and engagement within the platform.
